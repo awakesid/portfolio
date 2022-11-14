@@ -187,12 +187,15 @@ title{
         background-size: cover;  
     }
     .container{
-        margin-bottom: 10rem;
+        margin-bottom: 15rem;
     }
   
     .logo{
         top: 50%;
     }   
+	video{
+		display:none;
+	}
 }
 
 
